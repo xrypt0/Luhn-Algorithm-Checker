@@ -8,4 +8,3 @@ I coded the algorithm developed for validating various ID numbers (Of course we 
 
 ![image](https://user-images.githubusercontent.com/42627045/128149380-aa36308e-3494-47ef-95b5-bc2fe5feaabc.png)
 
-![file](/home/kali/Desktop/haha/shell.php)
